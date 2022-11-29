@@ -1,0 +1,5 @@
+simon:x:1001:1001::/home/simon:/bin/bash
+marie:x:1002:1002::/home/marie:/bin/bash
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+obi:x:1003:1004::/home/obi:/bin/bash
+datti:x:1004:1005::/home/datti:/bin/bash

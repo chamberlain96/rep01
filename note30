@@ -1,0 +1,39 @@
+ar = is used to :
+  tar -cvf fileName fileName.tar.gz =      compress files  
+  tar -xvf fileName.tar.gz =  extract compressed *.tar.gz files    
+
+ls / zip / tar / usermod / adduser|useradd  
+
+A 4000MB FILE is compressed to 400MB = 10 times size reduction 
+
+why do we compress files
+=========================
+  archiving  
+  better system Resource usage  
+  DATA migration 
+
+  400MB  
+
+tee =   
+   tail notes30 > newNotes 
+
+Input / output Redirection:
+==========================
+  command            output:  
+  cat /etc/passwd  = all users  
+  tail /etc/passwd = new users  
+
+tail /etc/passwd > newusers  
+tail /etc/passwd > newusers    
+
+tee: : It is a command used to store and view (both at the same time) 
+       the output of any other command.
+  useradd john  
+
+tail -5 /etc/passwd | tee users2022    
+
+ping: the ping command sends ICMP ECHO_REQUEST to network hosts.
+  
+     13.52.74.182
+     52.90.91.206
+
