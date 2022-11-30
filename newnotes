@@ -1,0 +1,10 @@
+       the output of any other command.
+  useradd john  
+
+tail -5 /etc/passwd | tee users2022    
+
+ping: the ping command sends ICMP ECHO_REQUEST to network hosts.
+  
+     13.52.74.182
+     52.90.91.206
+
